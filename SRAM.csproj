@@ -13,7 +13,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <OutputType>Library</OutputType>
     <PackageId>CCX.SRAM</PackageId>
-    <RepositoryUrl>https://github.com/CleanCodeX/SRAM.Commons</RepositoryUrl>
+    <RepositoryUrl>https://github.com/CleanCodeX/SRAM</RepositoryUrl>
     <Platforms>AnyCPU</Platforms>
     <Product>SRAM Commons</Product>
     <PackageTags>SRAM, S-RAM, SNES, Super Nintendo, Super Famicon</PackageTags>
